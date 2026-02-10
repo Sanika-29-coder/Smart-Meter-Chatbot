@@ -1,0 +1,10 @@
+streamlit>=1.20
+pandas
+numpy
+langchain_groq
+langchain_core
+langchain>=0.0.200
+transformers
+sentence-transformers
+huggingface-hub
+python-dotenv
