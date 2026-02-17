@@ -192,12 +192,20 @@ This project is under **MIT License**.
 
 ---
 
-## 👩‍💻 Developed By
+## 👩‍💻 Team Members
 
-**Your Name**
-Computer Engineering Student
-Project: Smart Meter Chatbot
+This project was developed as a group project by:
 
----
+- **Sanika Muluk**
+- **Om Chaudhari**
+- **Tanvi Deshpande**
+- **Aakanksha Naiknaware**
+- **Anushka Bhale**
+- **Rutuja Patwari**
+- **Sarthak Kadam**
+
+Under the guidance of  
+**Prof.Kavita Kumavat**  
+Department of Computer Engineering
 
 ### ⭐ If you found this helpful, please star this repository!
